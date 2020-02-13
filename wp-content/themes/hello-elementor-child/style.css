@@ -1,0 +1,13 @@
+/*
+ Theme Name:   hello-elementor-child
+ Theme URI:    https://monsite.com
+ Description:  Description de mon thème enfant
+ Author:       Florent
+ Author URI:   https://flebon.fr
+ Template:     hello-elementor
+ Version:      1.0.0
+*/
+
+h1 {
+    color: green !important;
+}
